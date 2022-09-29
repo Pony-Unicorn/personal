@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Startup Crypto Classic Landing`,
+    title: `Crypto`,
     description: `Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!`,
     author: `RedQ, Inc.`,
   },
